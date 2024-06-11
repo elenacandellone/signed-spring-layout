@@ -1,0 +1,12 @@
+	Mickey Mouse	Minnie Mouse	Donald Duck	Daisy Duck	Goofy	Pluto	Clarabelle Cow	Pete	The Phantom Blot	Beagle Boys	Trudy
+Mickey Mouse	0	1	1	0	1	1	0	-1	-1	-1	0
+Minnie Mouse	1	0	1	1	1	1	1	-1	0	0	-1
+Donald Duck	1	1	0	1	1	1	0	-1	-1	-1	-1
+Daisy Duck	0	1	1	0	1	1	1	0	0	0	-1
+Goofy	1	1	1	1	0	1	1	-1	-1	-1	-1
+Pluto	1	1	1	1	1	0	1	-1	-1	-1	0
+Clarabelle Cow	0	1	0	1	1	1	0	0	0	0	-1
+Pete	-1	-1	-1	0	-1	-1	0	0	1	1	1
+The Phantom Blot	-1	0	-1	0	-1	-1	0	1	0	1	1
+Beagle Boys	-1	0	-1	0	-1	-1	0	1	1	0	1
+Trudy	0	-1	-1	-1	-1	0	-1	1	1	1	0
