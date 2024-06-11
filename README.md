@@ -1,4 +1,4 @@
-# Signed spring layout
+# Signed force-directed layout
 Based on the word-famous Fruchterman-Reingold algorithm for network visualization, this (naive) adaptation for signed networks considers <span style="color:blue">attractive</span> forces for <span style="color:blue">positive</span> edges and <span style="color:red">repulsive</span> forces for <span style="color:red">negative</span> edges. This approach helps visualize the structural relationships and tensions within the network, highlighting both cohesion and division among communities.
 
 ## Usage
