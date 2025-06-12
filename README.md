@@ -7,6 +7,7 @@ Clone this repository with the command
 ```
  git clone https://github.com/elenacandellone/signed-spring-layout.git
 ```
+Run the notebook `viz.ipynb`.
 
 ## Reference
 
